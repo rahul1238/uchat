@@ -1,5 +1,7 @@
 # uChat 
 
+ ![uchat preview](preview.png)
+
 ## 🤔 About
 uChat is a free and open source community chat app that respects users privacy.
 
